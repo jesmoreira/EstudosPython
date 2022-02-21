@@ -1,0 +1,5 @@
+testevar = 'oi'
+
+
+print(testevar)
+
